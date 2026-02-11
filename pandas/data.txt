@@ -1,0 +1,3 @@
+1- understand the data set 
+2- identity the problems , missing data find karna, incorrect data find karna, duplicate data find karna
+3- plan next steps
